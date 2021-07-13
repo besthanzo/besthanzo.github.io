@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>「半藏家的空调房」</title>
+  
+  <subtitle>一个不想努力的人</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="/"/>
+  <updated>2021-07-13T06:58:36.078Z</updated>
+  <id>/</id>
+  
+  <author>
+    <name>besThanzo</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>博客自述</title>
+    <link href="/2021/03/25/%E5%85%B3%E4%BA%8E%E6%88%91%E5%92%8C%E6%88%91%E7%9A%84%E5%8D%9A%E5%AE%A2/"/>
+    <id>/2021/03/25/关于我和我的博客/</id>
+    <published>2021-03-25T04:16:01.000Z</published>
+    <updated>2021-07-13T06:58:36.078Z</updated>
+    
+    <summary type="html">
+    
+      Origin - Development
+    
+    </summary>
+    
+      <category term="写作" scheme="/categories/%E5%86%99%E4%BD%9C/"/>
+    
+    
+      <category term="Diary" scheme="/tags/Diary/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>有关Hexo的问题以及解决方法</title>
+    <link href="/2021/03/23/%E6%9C%89%E5%85%B3Hexo%E7%9A%84%E4%B8%80%E4%BA%9B%E5%B0%8F%E9%97%AE%E9%A2%98%E4%BB%A5%E5%8F%8A%E8%A7%A3%E5%86%B3%E6%96%B9%E6%B3%95/"/>
+    <id>/2021/03/23/有关Hexo的一些小问题以及解决方法/</id>
+    <published>2021-03-23T04:00:27.000Z</published>
+    <updated>2021-03-23T13:32:48.916Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;【cnpm】解决安装淘宝镜像后，cnpm-v无反应&quot;&gt;&lt;a href=&quot;#【cnpm】解决安装淘宝镜像后，cnpm-v无反应&quot; class=&quot;headerlink&quot; title=&quot;【cnpm】解决安装淘宝镜像后，cnpm
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
